@@ -9,5 +9,5 @@ title: "custom frontpage"
   breakLines=true
   loop=false
 >}}
-striving to craft byte-sized brilliance with grace and grit.
+Learning bit by bit
 {{< /typeit >}}
