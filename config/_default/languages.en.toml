@@ -1,0 +1,29 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Sujay Dey"
+
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  copyright = "Copy, _right?_ :thinking_face:"
+
+ [author]
+   name = "Sujay"
+   image = "img/prof.png"
+   headline = "QA Engineer Trainee [@Accuknox](https://www.accuknox.com/)"
+   bio = "I love to explore new tools especially when it is OpenSource"
+
+   links = [
+      { x-twitter = "https://x.com/Sujaystwt" },
+      { linkedin = "https://www.linkedin.com/in/sujaydey-dev/" },
+      { github = "https://github.com/SD-13"},
+      { stack-overflow = "https://stackoverflow.com/users/17837614/sujay" },
+      { email = "mailto:sujaydey.dev@gmail.com" },
+   ]
